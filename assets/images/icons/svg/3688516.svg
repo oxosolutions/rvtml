@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><svg height="48" id="box" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-primary, .vi-accent {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 0;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+        fill-rule: evenodd;
+      }
+    </style></defs><rect class="vi-primary" height="24" width="32" x="8" y="17"/><path class="vi-accent" d="M40,17H26l7-9H47ZM1,8H15l7,9H8ZM40,41H8V39H40v2Z"/></svg>

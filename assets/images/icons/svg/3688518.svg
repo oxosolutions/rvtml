@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><svg height="48" id="battery" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+        fill-rule: evenodd;
+      }
+    </style></defs><rect class="vi-primary" height="18" width="34" x="6" y="15"/><path class="vi-accent" d="M40,19h3V29H40V19ZM23,18l-5,6,4,1-4,5,11-6-6-1,6-5H23Z"/></svg>

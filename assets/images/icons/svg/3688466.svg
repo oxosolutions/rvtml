@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><svg height="48" id="moon" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 0;
+        fill-rule: evenodd;
+      }
+    </style></defs><path class="vi-primary" d="M20.848,27.134A17.853,17.853,0,0,0,41,30.675,17.849,17.849,0,1,1,17.3,7,17.815,17.815,0,0,0,20.848,27.134Z"/></svg>

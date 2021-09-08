@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><svg height="48" id="switch-off" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-primary, .vi-accent {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 0;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+      }
+    </style></defs><rect class="vi-primary" height="12" width="34" x="7" y="18"/><rect class="vi-accent" height="8" width="8" x="9" y="20"/></svg>

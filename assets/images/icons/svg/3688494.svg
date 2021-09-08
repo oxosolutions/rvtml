@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><svg height="48" id="envelope" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+        fill-rule: evenodd;
+      }
+    </style></defs><rect class="vi-primary" height="28" width="38" x="5" y="10"/><path class="vi-accent" d="M5,10H43L24,27Z"/></svg>

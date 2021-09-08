@@ -1,0 +1,13 @@
+<?xml version="1.0" ?><svg height="48" id="laptop" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><defs><style>
+      .vi-primary {
+        fill: #FF6E6E;
+      }
+
+      .vi-primary, .vi-accent {
+        fill-rule: evenodd;
+      }
+
+      .vi-accent {
+        fill: #0C0058;
+      }
+    </style></defs><path class="vi-primary" d="M43,35H5V9H43V35Z"/><path class="vi-accent" d="M8,12H40V32H8V12ZM47,39H1V35H47v4Z"/></svg>
