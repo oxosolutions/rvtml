@@ -84,7 +84,7 @@ if( file_exists( $path ) ) {
 
             $svg_file_code = file_get_contents($svg_file_path);
 
-            $svg_file_code  = str_replace( "png","svg", $svg_file_code );
+            $svg_file_code  = str_replace( array("\n","\r"), '', $svg_file_code );
 
             $data = array( $index, $file_path, $svg_file_path, $svg_file_code);
 
